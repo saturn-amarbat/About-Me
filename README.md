@@ -1,65 +1,80 @@
-# Hello, I'm Saturn 👋
+# Hey, I'm Saturn 👋
 
-## CS @ UIC | App Development · AI Engineering · AI Agents
+## CS @ UIC | App Development · AI Integration · Product Shipping
 
-🎓 **Computer Science Student** at University of Illinois Chicago (Graduating December 2026)
+🎓 **Computer Science Student** at University of Illinois Chicago — graduating **May 2027**
 
-💡 Building apps and AI-powered tools with a business mindset. I focus on shipping products that work — from full-stack web apps and mobile releases to AI agent pipelines and automation workflows. My background in leadership and operations taught me to stay calm under pressure, communicate clearly, and take ownership when things break.
+💡 I build apps people actually use. My focus is shipping complete, polished products across mobile and web — with AI baked in where it adds real value. I care about the full stack: clean UI, solid backend, and autonomous AI layers. Everything I build is designed to reach real users.
+
+---
 
 ### 🔧 Technical Stack
 
-**Languages:** Java, TypeScript, JavaScript, Python
+**Languages:** TypeScript, JavaScript, Java, Python, C++
 
 **Focus Areas:**
-- App Development (Web & Mobile)
-- AI Agents & Integration
-- AI Engineering & Automation Pipelines
-- Full-Stack Product Building
+- Mobile & Cross-Platform App Development
+- AI Integration & Autonomous Agent Workflows
+- Full-Stack Web Apps (SaaS / Product)
+- Monetization & App Distribution (AdMob, App Stores)
 
 **Tools & Frameworks:** Next.js, React, Supabase, Capacitor (Android), JavaFX, Discord API, Git/GitHub, Linux
 
-### 🚀 What I'm Working On
+---
 
-- Shipping mobile apps with real monetization (AdMob, app stores)
-- Integrating AI APIs and building autonomous agent workflows
-- Building SaaS-style tools that solve real business problems
-- Developing full-stack apps with modern TypeScript/Next.js stacks
+### 🚀 What I'm Building
+
+- Mobile apps with real monetization (AdMob, in-app purchases, subscriptions)
+- SaaS-style tools with recurring revenue potential
+- AI-integrated apps that automate real user workflows
+- Full-stack products from UI → backend → AI layer
+
+---
 
 ### 📂 Featured Projects
 
-**StageCraft** — AI-Powered Event Planning Platform *(SparkHacks 2026 Hackathon)*
+**[StageCraft](https://github.com/saturn-amarbat/SparkHacks-26-Project-Stage-Craft-Web-App)** — AI-Powered Event Planning Platform *(SparkHacks 2026 Hackathon)*
 - Full-stack AI agent web app built end-to-end in 24 hours
 - Integrated AI APIs for intelligent event planning and vendor recommendations
-- Used Supabase for real-time data and auth; deployed as a live web app
-- Tech: TypeScript, Next.js, React, Supabase, AI APIs
+- Real-time data and auth via Supabase; deployed as a live web app
+- **Stack:** TypeScript, Next.js, React, Supabase, AI APIs
 
-**Castward** — Weather App
-- Native desktop weather application with clean UI
-- Fetches live weather data via external API with local caching
-- Tech: Java, JavaFX
-
-**Trade Ops** — Automated Stock Scanner & Alert System
-- Automated momentum scanner detecting bull flag patterns in real-time
-- Posts live trade alerts directly to Discord; persists data in SQLite
-- Ross Cameron-inspired day trading workflow automation
-- Tech: Python, Discord API, SQLite
-
-**Trials of Tempo** — Cross-Platform Rhythm Game
-- Originally a web browser game; ported to Android with AdMob monetization
-- Beat-synchronized gameplay with dynamic difficulty and custom animations
+**[Trials of Tempo](https://github.com/saturn-amarbat/Trials-Of-Tempo-The-Game-Mobile-version)** — Cross-Platform Rhythm Game
+- Originally a web game; ported to Android with AdMob monetization
+- Beat-synchronized gameplay, dynamic difficulty, and custom animations
 - Live on GitHub Pages and distributed as an Android APK
-- Tech: JavaScript, p5.js, p5play, Capacitor (Android)
+- **Stack:** JavaScript, p5.js, p5play, Capacitor (Android)
+
+**[Trade Ops](https://github.com/saturn-amarbat/trade-ops)** — Automated Stock Scanner & Alert System
+- Momentum scanner detecting bull flag patterns in real-time
+- Posts live trade alerts to Discord; persists data in SQLite
+- **Stack:** Python, Discord API, SQLite
+
+**[Castward](https://github.com/saturn-amarbat/Castward-weather-app)** — Desktop Weather App
+- Native desktop app with clean UI and live weather API data with local caching
+- **Stack:** Java, JavaFX
+
+**[UIC Campus Map Router](https://github.com/saturn-amarbat/uic-campus-map-router)** — Shortest Path Navigation Tool
+- Parses OpenStreetMap JSON into a weighted walking graph; finds shortest paths via Dijkstra's algorithm
+- Features CLI and a lightweight web map with autocomplete
+- **Stack:** C++, OSM JSON
+
+---
 
 ### 🎯 Currently Seeking
 
-App development or AI engineering **internship opportunities** where I can:
-- Build and ship real products to real users
-- Integrate and deploy AI agents and automation pipelines
-- Work on the full stack — from UI to backend to AI layer
+**App Development or AI Engineering internships** (Summer / Fall 2026) where I can:
+- Ship mobile and web apps to real users
+- Integrate AI agents and automation into product workflows
+- Own the full stack — from UI to backend to AI layer
+
+---
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saturn-amarbat-tech)
+
+---
 
 ### 📊 GitHub Stats
 
@@ -73,4 +88,4 @@ App development or AI engineering **internship opportunities** where I can:
 
 ---
 
-*"The best app isn't the most technically complex one — it's the one people actually use."*
+*"The best app isn't the most technically complex — it's the one people actually use and pay for."*
