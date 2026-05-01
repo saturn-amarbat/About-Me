@@ -72,7 +72,7 @@ Production-quality C++20 hash table using separate chaining for collision resolu
 
 ## 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/saturn-amarbat/personal-website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saturnmade.tech-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://saturnmade.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saturn-amarbat-tech)
 
 > *"The best app isn't the most technically complex one — it's the one people actually use."*
