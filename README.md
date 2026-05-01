@@ -1,82 +1,64 @@
-# Hey, I'm Saturn 👋
+# Hi, I'm Saturn 👋
 
-## CS @ UIC | App Development · AI Integration · Product Shipping
+**CS @ UIC** · Graduating December 2026 · Chicago, IL
 
-🎓 **Computer Science Student** at University of Illinois Chicago — graduating **May 2027**
+I build apps, AI-powered tools, and systems software — end-to-end. I care about shipping things that actually work: from a C++ graph engine parsing real map data, to a full-stack AI web app built in 24 hours at a hackathon, to an Android game generating real AdMob revenue. My background mixes low-level systems thinking with full-stack product sense.
 
-💡 I build apps people actually use. My focus is shipping complete, polished products across mobile and web — with AI baked in where it adds real value. I care about the full stack: clean UI, solid backend, and autonomous AI layers. Everything I build is designed to reach real users.
-
----
-
-### 🔧 Technical Stack
-
-**Languages:** TypeScript, JavaScript, Java, Python, C++
-
-**Focus Areas:**
-- Mobile & Cross-Platform App Development
-- AI Integration & Autonomous Agent Workflows
-- Full-Stack Web Apps (SaaS / Product)
-- Monetization & App Distribution (AdMob, App Stores)
-
-**Tools & Frameworks:** Next.js, React, Supabase, Capacitor (Android), JavaFX, Discord API, Git/GitHub, Linux
+**Open to:** App Development · AI Engineering · Full-Stack · Systems Software internships
 
 ---
 
-### 🚀 What I'm Building
+## 🔧 Tech Stack
 
-- Mobile apps with real monetization (AdMob, in-app purchases, subscriptions)
-- SaaS-style tools with recurring revenue potential
-- AI-integrated apps that automate real user workflows
-- Full-stack products from UI → backend → AI layer
-
----
-
-### 📂 Featured Projects
-
-**[StageCraft](https://github.com/saturn-amarbat/SparkHacks-26-Project-Stage-Craft-Web-App)** — AI-Powered Event Planning Platform *(SparkHacks 2026 Hackathon)*
-- Full-stack AI agent web app built end-to-end in 24 hours
-- Integrated AI APIs for intelligent event planning and vendor recommendations
-- Real-time data and auth via Supabase; deployed as a live web app
-- **Stack:** TypeScript, Next.js, React, Supabase, AI APIs
-
-**[Trials of Tempo](https://github.com/saturn-amarbat/Trials-Of-Tempo-The-Game-Mobile-version)** — Cross-Platform Rhythm Game
-- Originally a web game; ported to Android with AdMob monetization
-- Beat-synchronized gameplay, dynamic difficulty, and custom animations
-- Live on GitHub Pages and distributed as an Android APK
-- **Stack:** JavaScript, p5.js, p5play, Capacitor (Android)
-
-**[Trade Ops](https://github.com/saturn-amarbat/trade-ops)** — Automated Stock Scanner & Alert System
-- Momentum scanner detecting bull flag patterns in real-time
-- Posts live trade alerts to Discord; persists data in SQLite
-- **Stack:** Python, Discord API, SQLite
-
-**[Castward](https://github.com/saturn-amarbat/Castward-weather-app)** — Desktop Weather App
-- Native desktop app with clean UI and live weather API data with local caching
-- **Stack:** Java, JavaFX
-
-**[UIC Campus Map Router](https://github.com/saturn-amarbat/uic-campus-map-router)** — Shortest Path Navigation Tool
-- Parses OpenStreetMap JSON into a weighted walking graph; finds shortest paths via Dijkstra's algorithm
-- Features CLI and a lightweight web map with autocomplete
-- **Stack:** C++, OSM JSON
+| Layer | Tools |
+|---|---|
+| **Systems / Low-level** | C, C++20, Memory Management, Data Structures |
+| **Backend / Scripting** | Python, Java, SQLite, REST APIs |
+| **Full-Stack / Web** | TypeScript, Next.js, React, Supabase |
+| **Mobile** | Capacitor (Android), AdMob |
+| **Tools** | Git, Linux, Makefile, Discord API |
 
 ---
 
-### 🎯 Currently Seeking
+## 🚀 Featured Projects
 
-**App Development or AI Engineering internships** (Summer / Fall 2026) where I can:
-- Ship mobile and web apps to real users
-- Integrate AI agents and automation into product workflows
-- Own the full stack — from UI to backend to AI layer
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saturn-amarbat-tech)
+### [UIC Campus Map Router](https://github.com/saturn-amarbat/uic-campus-map-router) — C++
+Parses real OpenStreetMap JSON into a weighted walking graph and finds shortest paths using Dijkstra's algorithm. Ships both a CLI tool and a web map interface with autocomplete + visual routing. Built with C++, httplib, and a lightweight JS frontend.
+> **Skills:** Dijkstra, Graph ADT, OSM data parsing, HTTP server in C++, Makefile builds
 
 ---
 
-### 📊 GitHub Stats
+### [Custom Memory Allocator](https://github.com/saturn-amarbat/Personal_Project_Memory_Allocator) — C
+Built a custom `malloc`/`free` from scratch in C. Manages a fixed 1MB heap with `allocator_init`, `s_malloc`, and `s_free`. Demonstrates manual pointer arithmetic and allocator design — a systems project uncommon in undergrad portfolios.
+> **Skills:** C, Heap Management, Pointer Arithmetic, Systems Programming
+
+---
+
+### [StageCraft — AI Event Planner](https://github.com/saturn-amarbat/SparkHacks-26-Project-Stage-Craft-Web-App) — TypeScript · SparkHacks 2026
+Full-stack AI-powered event planning platform built and shipped in 24 hours at SparkHacks 2026. Integrated AI APIs for intelligent vendor recommendations, Supabase for real-time data + auth, deployed as a live web app.
+> **Skills:** TypeScript, Next.js, React, Supabase, AI API Integration, Full-Stack
+
+---
+
+### [Trade Ops — Stock Scanner](https://github.com/saturn-amarbat/trade-ops) — Python
+Automated momentum scanner that detects bull flag patterns in real-time across US stocks, posts live alerts to Discord, and persists data in SQLite. Ross Cameron-inspired trading automation pipeline.
+> **Skills:** Python, Discord API, SQLite, Financial Data, Real-time Automation
+
+---
+
+### [Trials of Tempo — Android Game](https://github.com/saturn-amarbat/Trials-Of-Tempo-The-Game-Mobile-version) — JavaScript · Capacitor
+Beat-synchronized endless runner ported from web browser to Android APK with real AdMob monetization. Originally built with p5.js/p5play, ported via Capacitor.
+> **Skills:** JavaScript, p5.js, Capacitor, Android, AdMob, Cross-platform
+
+---
+
+### [HashMap from Scratch](https://github.com/saturn-amarbat/HashMap-Implementation-) — C++20
+Production-quality C++20 hash table using separate chaining for collision resolution. Built to demonstrate deep data structures knowledge and modern C++ features.
+> **Skills:** C++20, Hash Tables, Collision Resolution, Memory Management
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
@@ -88,4 +70,8 @@
 
 ---
 
-*"The best app isn't the most technically complex — it's the one people actually use and pay for."*
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saturn-amarbat-tech)
+
+> *"The best app isn't the most technically complex one — it's the one people actually use."*
