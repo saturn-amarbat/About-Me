@@ -1,10 +1,10 @@
 # Hi, I'm Saturn 👋
 
-**CS @ UIC** · Graduating December 2026 · Chicago, IL
+**CS @ UIC** · Graduating May 2027 · **Chicago, IL**
 
-I build apps, AI-powered tools, and systems software — end-to-end. I care about shipping things that actually work: from a C++ graph engine parsing real map data, to a full-stack AI web app built in 24 hours at a hackathon, to an Android game generating real AdMob revenue. My background mixes low-level systems thinking with full-stack product sense.
+I build mobile applications, full-stack systems, and AI-powered tools — end-to-end. I care about shipping products that generate real user value: from an Android game integrated with live AdMob monetization, to a C++ graph engine parsing real map data, to full-stack web platforms. My background bridges mobile development, product monetization, and systems engineering.
 
-**Open to:** App Development · AI Engineering · Full-Stack · Systems Software internships
+**Open to:** Software Engineering Internships (Summer 2026) · Mobile Development · Full-Stack · Monetization & Ads
 
 ---
 
@@ -12,31 +12,31 @@ I build apps, AI-powered tools, and systems software — end-to-end. I care abou
 
 | Layer | Tools |
 |---|---|
-| **Systems / Low-level** | C, C++20, Memory Management, Data Structures |
-| **Backend / Scripting** | Python, Java, SQLite, REST APIs |
+| **Mobile / Monetization** | Capacitor (Android), AdMob |
 | **Full-Stack / Web** | TypeScript, Next.js, React, Supabase |
-| **Mobile** | Capacitor (Android), AdMob |
+| **Backend / Scripting** | Python, Java, SQLite, REST APIs |
+| **Systems / Low-level** | C, C++20, Memory Management, Data Structures |
 | **Tools** | Git, Linux, Makefile, Discord API |
 
 ---
 
 ## 🚀 Featured Projects
 
+### [Trials of Tempo — Android Game](https://github.com/saturn-amarbat/Trials-Of-Tempo-The-Game-Mobile-version) — JavaScript · Capacitor
+Beat-synchronized endless runner ported from web browser to Android APK. Engineered the monetization pipeline by integrating real AdMob banner and interstitial ads for live revenue generation.
+> **Skills:** JavaScript, p5.js, Capacitor, Android, AdMob Monetization, Cross-platform
+
+---
+
+### [StageCraft — AI Event Planner](https://github.com/saturn-amarbat/SparkHacks-26-Project-Stage-Craft-Web-App) — TypeScript · SparkHacks
+Full-stack AI-powered event planning platform built and shipped in 24 hours. Integrated AI APIs for intelligent vendor recommendations, Supabase for real-time data + auth, deployed as a live web app.
+> **Skills:** TypeScript, Next.js, React, Supabase, AI API Integration, Full-Stack
+
+---
+
 ### [UIC Campus Map Router](https://github.com/saturn-amarbat/uic-campus-map-router) — C++
 Parses real OpenStreetMap JSON into a weighted walking graph and finds shortest paths using Dijkstra's algorithm. Ships both a CLI tool and a web map interface with autocomplete + visual routing. Built with C++, httplib, and a lightweight JS frontend.
 > **Skills:** Dijkstra, Graph ADT, OSM data parsing, HTTP server in C++, Makefile builds
-
----
-
-### [Custom Memory Allocator](https://github.com/saturn-amarbat/Personal_Project_Memory_Allocator) — C
-Built a custom `malloc`/`free` from scratch in C. Manages a fixed 1MB heap with `allocator_init`, `s_malloc`, and `s_free`. Demonstrates manual pointer arithmetic and allocator design — a systems project uncommon in undergrad portfolios.
-> **Skills:** C, Heap Management, Pointer Arithmetic, Systems Programming
-
----
-
-### [StageCraft — AI Event Planner](https://github.com/saturn-amarbat/SparkHacks-26-Project-Stage-Craft-Web-App) — TypeScript · SparkHacks 2026
-Full-stack AI-powered event planning platform built and shipped in 24 hours at SparkHacks 2026. Integrated AI APIs for intelligent vendor recommendations, Supabase for real-time data + auth, deployed as a live web app.
-> **Skills:** TypeScript, Next.js, React, Supabase, AI API Integration, Full-Stack
 
 ---
 
@@ -46,9 +46,9 @@ Automated momentum scanner that detects bull flag patterns in real-time across U
 
 ---
 
-### [Trials of Tempo — Android Game](https://github.com/saturn-amarbat/Trials-Of-Tempo-The-Game-Mobile-version) — JavaScript · Capacitor
-Beat-synchronized endless runner ported from web browser to Android APK with real AdMob monetization. Originally built with p5.js/p5play, ported via Capacitor.
-> **Skills:** JavaScript, p5.js, Capacitor, Android, AdMob, Cross-platform
+### [Custom Memory Allocator](https://github.com/saturn-amarbat/Personal_Project_Memory_Allocator) — C
+Built a custom `malloc`/`free` from scratch in C. Manages a fixed 1MB heap with `allocator_init`, `s_malloc`, and `s_free`. Demonstrates manual pointer arithmetic and allocator design — a systems project uncommon in undergrad portfolios.
+> **Skills:** C, Heap Management, Pointer Arithmetic, Systems Programming
 
 ---
 
